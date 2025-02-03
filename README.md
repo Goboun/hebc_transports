@@ -1,6 +1,6 @@
 # Highspeed Express Bandwagon Compagny (HEBC)
 ***
-Ce document réalisé a été réalisé par HEBC en collaboration avec 22302932 dans le cadre d'un projet de Développement Web, en L2-Informatique 2023-2024, avec le TD-C.
+Ce document réalisé a été réalisé par HEBC en duo dans le cadre d'un projet de Développement Web, en L2-Informatique 2023-2024, avec le TD-C.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -19,8 +19,8 @@ Ce document réalisé a été réalisé par HEBC en collaboration avec 22302932 
 ***
 
 **HEBC's Corporation présente ses membres :**
-1. BANDOIS--CERVEAU Henri-Emmanuel | 22202642
-2. TRINH Gia-Tâm | 22302932
+1. [BANDOIS--CERVEAU Henri-Emmanuel](https://github.com/Goboun)
+2. [TRINH Gia-Tâm](https://github.com/agent1999)
 
 ![alt text](https://www.plandeparis.info/plan-bus/carte-bus.png)
 
