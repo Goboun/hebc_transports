@@ -1,42 +1,36 @@
-# Highspeed Express Bandwagon Compagny (HEBC)
-***
-Ce document réalisé a été réalisé par HEBC en duo dans le cadre d'un projet de Développement Web, en L2-Informatique 2023-2024, avec le TD-C.
+# HEBC - Highspeed Express Bandwagon Compagny
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Presentation](#presentation)
-3. [Liens](#liens)
-4. [Fonctionnement](#fonctionnement)
-### Introduction
-***
-**HEBC's Production**
-- Retrouvez sur notre site les différents horaires de trains et de RER de la région parisienne.
-- Toutes les informations dont vous avez besoin pour vos trajets sont disponibles dessus !
+Un site web HTML sur les informations en gare et horaires des trains et des RER avec PHP et CSS utilisant l'API Navitia pour récupérer les informations d’Île-De-France Mobilités et les afficher. Le site permettait de consulter :
+- les meilleurs itinéraires entre deux gares
+- les prochains horaires de départs à une gare
+- les informations du trafic des trains et des RER
+- diverses statistiques sur l'utilisation du site
 
-![alt text](https://st.depositphotos.com/1934071/2750/i/450/depositphotos_27501869-stock-photo-fast-moving-train.jpg)
+**L'offre gratuite de l'API n'existe plus, il n'est plus possible de réaliser des requêtes.**
 
-### Presentation
-***
+## Comment utiliser le site web
 
-**HEBC's Corporation présente ses membres :**
-1. [BANDOIS--CERVEAU Henri-Emmanuel](https://github.com/Goboun)
-2. [TRINH Gia-Tâm](https://github.com/agent1999)
+- Cliquer sur [HEBC](hebc2.alwaysdata.net) pour accéder au site
 
-![alt text](https://www.plandeparis.info/plan-bus/carte-bus.png)
+## Comment installer le site web
 
-### Liens
-***
-- [Page Menu (Http)](http://hebc.alwaysdata.net/index.php)
-- [Page Menu (Https)](https://hebc.alwaysdata.net/index.php)
+- Ouvrir `FileZilla`.
+- Entrer l'hôte, le nom d'utilisateur, le mot de passe, et le port pour vous connecter au serveur web de votre solution.
+- Glisser dans le répertoire du site web tous les fichiers du dossier `src`.
+- Aller sur le site web à partir d'un navigateur.
 
-![alt text](https://f.hellowork.com/blogdumoderateur/2013/05/internet-240x193.jpg)
+## Journal des modifications
 
-### Fonctionnement
-***
-*Notre site permet de :*
-- Consulter un itinéraire de votre choix !
-- Pouvoir consulter les prochains départs de votre gare !
-- Connaître les dernières informations sur vos transports et gares !
-- Regarder les statistiques des différents trains et RER, afin de voir quelles sont les gares les plus populaires !
+### Version 1.1
 
-![alt text](https://st2.depositphotos.com/1258938/7766/i/450/depositphotos_77668624-stock-photo-subway-train-paris-france.jpg)
+- Mise à jour de index.php : Paragraphe expliquant qu'il n'est plus possible de réaliser des requêtes.
+
+### Version 1.0
+
+- Sortie initiale.
+
+## Crédits
+
+- Merci à [Agent1999](https://github.com/agent1999) pour avoir travailler avec moi.
+- Merci à [Navitia](https://navitia.io/fr/) pour l'API.
+- Merci à [alwaysdata](https://www.alwaysdata.com/fr/) pour accueilir le site web.
