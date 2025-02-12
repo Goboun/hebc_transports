@@ -10,7 +10,7 @@ Un site web HTML sur les informations en gare et horaires des trains et des RER 
 
 ## Comment utiliser le site web
 
-- Cliquer sur [HEBC](hebc2.alwaysdata.net) pour accéder au site
+- Cliquer sur https://hebc2.alwaysdata.net pour accéder au site
 
 ## Comment installer le site web
 
